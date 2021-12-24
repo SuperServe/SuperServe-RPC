@@ -18,7 +18,7 @@ require('dotenv').config();
             smallImageText: "Powerfull servers only!"
         }).catch(err => console.log(err));
 
-        console.log("Discord Rich Presence has been enabled.");
+        console.log("Showing Discord Rich Presence on your profile now.");
     });
 
     await client.login({ clientId: '919342895704723537' }).catch(console.error); // Logging into our application.
