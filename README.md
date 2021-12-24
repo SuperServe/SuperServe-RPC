@@ -1,7 +1,7 @@
 # SuperServe-RPC
 A Rich Presence for Discord Staff of SuperServe
 
-## How to use it?
+### How to use it?
 1. Download all the files.
 2. Download the latest **[node version](https://nodejs.org/en/)**!
 3. Open CMD (command prompt) and locate your directory.
@@ -9,5 +9,5 @@ A Rich Presence for Discord Staff of SuperServe
 5. Close CMD.
 6. Run the **Start.bat** file.
 
-## Any issues?
+### Any issues?
 - Contact MrAndy#0001
